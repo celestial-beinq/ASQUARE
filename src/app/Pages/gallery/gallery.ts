@@ -73,7 +73,7 @@ export class GalleryPage {
       categoryLabel: 'SPORTS ARENA',
       image: 'images/campus-sports.jpg',
       description:
-        'Intense competition and sportsmanship on our FIFA-dimension pitch during the annual A SQUARE COLLEGE Games.',
+        'Intense competition and sportsmanship on our FIFA-dimension pitch during the annual A Square College Games.',
       badge: 'Athletics Day',
     },
     {
@@ -123,7 +123,7 @@ export class GalleryPage {
       categoryLabel: 'COURT SPORTS',
       image: 'images/IMG_4342.JPG',
       description:
-        'A SQUARE COLLEGE basketball squad displaying tactical precision and agility on our outdoor courts.',
+        'A Square College basketball squad displaying tactical precision and agility on our outdoor courts.',
       badge: 'Championship Match',
     },
     {
